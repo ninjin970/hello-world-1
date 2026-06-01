@@ -1,8 +1,8 @@
 # hello-world
 This repository is for practing the GitHub Flow.
 
-My name is Ishikawa Kouki.
+My name is Haruyama Satoru.
 I from Saitama.
-I live in Misato town
+I live in Miyoshu town
 I like JapaneseManga.
-Doragon ball is my favorite manga.
+Naruto is my favorite manga.
